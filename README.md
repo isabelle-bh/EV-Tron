@@ -22,6 +22,6 @@ EV-TRON is about learning. Through fast-paced gameplay and trivia challenges, pl
 - Fun facts that break down myths and highlight EV benefits
 
 ## Tech (Planned)
-Engine: Unity (2D)
-Art: Custom pixel art inspired by retro arcades and Tron aesthetics
-Music: Retro synthwave soundtrack
+- Engine: Unity (2D)
+- Art: Custom pixel art inspired by retro arcades and Tron aesthetics
+- Music: Retro synthwave soundtrack
